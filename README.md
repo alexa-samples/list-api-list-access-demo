@@ -3,6 +3,9 @@ This demo shows how to access Alexa lists.  You might want to add things to a to
 
 In this demo, the first item on your to-do list is read back to you (read), and you have the opportunity to mark it as complete (write).
 
+# ** This repository has been archived **
+This repository is still available as a point-in-time reference, but no further updates or support will be prioritized.
+
 ## What You Will Need
 *  [Amazon Developer Account](http://developer.amazon.com/alexa)
 *  [Amazon Web Services Account](http://aws.amazon.com/)
